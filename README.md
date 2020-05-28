@@ -3,5 +3,5 @@
  
  Repositório criado durante uma aula!
  
- Essa lihna eu alterei diretamente do site!
+ Essa linha eu alterei diretamente do site!
  
